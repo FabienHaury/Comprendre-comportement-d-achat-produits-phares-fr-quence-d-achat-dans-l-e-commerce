@@ -19,7 +19,7 @@ J'ai créé un tableau de bord sur les ventes et les produits les plus achetés 
 ---
 
 ## Outils
-- **Python** : SQLlite3.  
+- **SQL** : SQLlite3 for Python.  
 - **Power BI** : dashboards interactifs, KPIs dynamiques.  
 
 ---
