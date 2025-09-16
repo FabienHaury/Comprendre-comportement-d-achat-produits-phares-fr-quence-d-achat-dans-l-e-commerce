@@ -17,3 +17,13 @@ J'ai créé un tableau de bord sur les ventes et les produits les plus achetés 
   - Données geographique
 
 ---
+
+## Outils
+- **Python** : SQLlite3.  
+- **Power BI** : dashboards interactifs, KPIs dynamiques.  
+
+---
+
+## Contact
+- 📧 [Email](mailto:67912775+FabienHaury@users.noreply.github.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabienhaury/)
